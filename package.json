@@ -1,0 +1,16 @@
+{
+  "name": "nopejs",
+  "version": "1.0.0",
+  "description": "NopeJS says 'nope!' to the JS and stops execution",
+  "main": "nope.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bengadbois/nopejs.git"
+  },
+  "author": "Ben Gadbois",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bengadbois/nopejs/issues"
+  },
+  "homepage": "https://github.com/bengadbois/nopejs#readme"
+}
