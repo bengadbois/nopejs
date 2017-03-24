@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "NopeJS says 'nope!' to the JS and stops execution",
   "main": "nope.js",
+  "scripts": {
+    "build": "webpack"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bengadbois/nopejs.git"
@@ -12,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bengadbois/nopejs/issues"
   },
-  "homepage": "https://github.com/bengadbois/nopejs#readme"
+  "homepage": "https://github.com/bengadbois/nopejs#readme",
+  "devDependencies": {
+    "webpack": "^2.3.1"
+  }
 }
