@@ -1,1 +1,1 @@
-throw 'nope!';
+throw 'Nope!';
