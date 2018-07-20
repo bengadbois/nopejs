@@ -1,3 +1,3 @@
-![Nope](http://i.imgur.com/dW3Nt4A.png)
+![Nope](logo.png)
 
 NopeJS says "Nope!" to the JS and stops execution.
