@@ -1,5 +1,5 @@
 {
-  "name": "nopejs",
+  "name": "@bengadbois/nopejs",
   "version": "1.2.0",
   "description": "NopeJS says 'nope!' to the JS and stops execution",
   "main": "nope.js",
